@@ -33,8 +33,6 @@ c
 ### Training
 * Software: Python, PyTorch, Google Colab (with A100/T4 GPU).
 
-* Optimizer: Adam Optimizer with a learning rate of 0.0001.
-
 * Loss Function: Binary Cross-Entropy with Logits (BCEWithLogitsLoss).
 
 * Difficulty: Imbalanced datasets are common in medical imaging; we resolved this by using a balanced sample of 5,552 images.
