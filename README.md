@@ -13,6 +13,13 @@
 
 * Summary of Performance: Our best model achieved a confidence level of approximately 98% on positive cases. The deployment was built using Streamlit to bridge the gap between AI modeling and clinical usability.
 
+
+<img width="1182" height="265" alt="image" src="https://github.com/user-attachments/assets/48c501d6-a14e-4a64-912c-d25163cd0379" />
+
+<img width="1182" height="265" alt="image" src="https://github.com/user-attachments/assets/526e1a15-6213-4c32-a7d4-68d96919f5c1" />
+
+
+
 ## 📊 Summary of Work Done
 ### Data
 * Type: 5,552 Chest X-ray images (PA view) in PNG/JPEG format.
