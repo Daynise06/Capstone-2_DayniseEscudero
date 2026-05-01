@@ -18,7 +18,7 @@
 * Type: 5,552 Chest X-ray images (PA view) in PNG/JPEG format.
 
 * Input: 224x224 RGB pixel arrays.
-
+c
 * Output: Binary labels (0: Healthy, 1: Cardiomegaly).
 
 * Split: 80% Training, 10% Validation, 10% Testing.
@@ -38,3 +38,6 @@
 * Loss Function: Binary Cross-Entropy with Logits (BCEWithLogitsLoss).
 
 * Difficulty: Imbalanced datasets are common in medical imaging; we resolved this by using a balanced sample of 5,552 images.
+
+## 📑 Citations 
+* Kaggle Dataset: https://www.kaggle.com/datasets/nih-chest-xrays/data
